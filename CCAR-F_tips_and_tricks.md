@@ -71,18 +71,6 @@ Weightings are approximate — treat Agentic Architecture as the heaviest and st
 
 ---
 
-## How people who passed actually studied
-
-Consistent advice from candidates who cleared it (scores 850–1000):
-
-1. **Anthropic Academy is non-negotiable.** Complete all official courses. Most passers said skipping this was the biggest mistake you could make. It maps directly to the domains.
-2. **Do the official mock test.** It's the closest thing to the real exam's format and difficulty. Treat it as a dress rehearsal, not a warm-up.
-3. **Build, then break.** Nearly everyone who passed on instinct rather than cramming said the same thing: the questions reward people who've actually stood up agents, wired MCP servers, and watched them fail. Reading isn't enough.
-4. **Supplement with a structured video course** if you learn better that way (community favorites exist on YouTube), but don't let it replace hands-on time.
-5. **Free prep is enough.** Multiple high scorers passed using only free resources. You don't need a paid bootcamp.
-
----
-
 ## Test-day tactics
 
 - **Two minutes per question.** Don't over-invest early. Flag and move on.
