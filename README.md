@@ -4,17 +4,19 @@ Six full-length, self-contained practice mock exams for the **Claude Certified A
 
 ## Contents
 
-| File | Batch | Theme |
-| --- | --- | --- |
-| [`mocks/index.html`](mocks/index.html) | Launcher for all six | — |
-| `mocks/CCA-F_Mock_Exam_Batch1.html` | Batch 1 | crimson |
-| `mocks/CCA-F_Mock_Exam_Batch2.html` | Batch 2 | blue |
-| `mocks/CCA-F_Mock_Exam_Batch3.html` | Batch 3 | green |
-| `mocks/CCA-F_Mock_Exam_Batch4.html` | Batch 4 | purple |
-| `mocks/CCA-F_Mock_Exam_Batch5.html` | Batch 5 | rust |
-| `mocks/CCA-F_Mock_Exam_Batch6.html` | Batch 6 | steel-blue |
+| File | Batch |
+| --- | --- |
+| [`mocks/index.html`](mocks/index.html) | Launcher for all six |
+| `mocks/CCA-F_Mock_Exam_Batch1.html` | Batch 1 |
+| `mocks/CCA-F_Mock_Exam_Batch2.html` | Batch 2 |
+| `mocks/CCA-F_Mock_Exam_Batch3.html` | Batch 3 |
+| `mocks/CCA-F_Mock_Exam_Batch4.html` | Batch 4 |
+| `mocks/CCA-F_Mock_Exam_Batch5.html` | Batch 5 |
+| `mocks/CCA-F_Mock_Exam_Batch6.html` | Batch 6 |
 
 **6 mocks × 60 questions = 360 practice questions.**
+
+Also included: [`CCAR-F_tips_and_tricks.md`](CCAR-F_tips_and_tricks.md) — a study guide covering the exam domains, weightings, granular objectives, test-day tactics, and common traps.
 
 ## How to use
 
